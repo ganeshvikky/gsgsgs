@@ -2,4 +2,8 @@
 *.net
 
 !nine.py
+ 
+!eight.py
+
+!six.py
 
